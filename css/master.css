@@ -1,0 +1,141 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1152px;
+    height: 700px;
+    background: #370617;
+}
+.card__text {
+    width: 468px;
+    height: 160px;
+    margin:auto;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.card__menu {
+    width: 468px;
+    height: 160px;
+    margin:auto;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card__aside {
+    width: 468px;
+    height: 160px;
+    margin:auto;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-content: center;
+}
+.card__ad {
+    width: 468px;
+    height: 160px;
+    margin:auto;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+}
+.card__btn {
+    width: 468px;
+    height: 160px;
+    margin:auto;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;   
+}
+.card__img {
+    display: flex;
+    justify-content: center;
+    width: 468px;
+    height: 160px;
+    margin:auto;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card__text--first , .card__img--product {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 78px;
+    height: 78px;
+    margin-left: 19px;
+    margin-right: 20px;
+    margin-top: 68px;
+    background: #9D0208;
+    border-radius: 4px;
+    color: darkturquoise;
+    align-content: center;
+}
+.card__menu--second {
+    display: flex;
+    justify-content: center;
+    width: 78px;
+    height: 120px;
+    margin: 20px;
+    background: #9D0208;
+    border-radius: 4px;
+    color: darkturquoise;
+    align-items: center;
+}
+.card__btn--accept , .card__aside--little {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    line-height: 60px;
+    width: 78px;
+    margin: 20px;
+    background: #9D0208;
+    border-radius: 4px;
+    color: darkturquoise;
+    align-content: center;
+}
+.card__ad--media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 78px;
+    height: 78px;
+    margin: 8px auto;
+    background: #9D0208;
+    border-radius: 4px;
+    color: darkturquoise;
+    align-content: center;
+}
+
+
+
+
+
